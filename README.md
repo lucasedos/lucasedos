@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Perfil do Estudante de Ciencia da computação - PUC Minas
 ## Contato
 
 - **E-mail:** [lucasosilva2005@gmail.com]
